@@ -1,0 +1,16 @@
+{
+  "name": "bismarck",
+  "version": "0.0.0",
+  "main": "dist/bismarck.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "snap.svg": "~0.3.0",
+    "jquery": "~2.1.1"
+  }
+}
